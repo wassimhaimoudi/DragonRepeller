@@ -1,4 +1,4 @@
-# Game README
+# Dragon Repeller
 
 ## Table of Contents
 - [Overview](#overview)

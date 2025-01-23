@@ -1,0 +1,7 @@
+node_modules/
+nodes.md
+saves.json
+
+public/~*
+public/js/~*
+public/css/~*

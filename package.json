@@ -4,7 +4,8 @@
   "description": "A text-based RPG and adventure game with combat mechanics, inventory system and stats.",
   "main": "script.js",
   "scripts": {
-    "dev": "nodemon app.js"
+    "dev": "nodemon app.js",
+    "test": "npx mocha test/saveApi.test.js"
   },
   "author": "Mohamed Wassim Haimoudi",
   "license": "ISC",
@@ -19,6 +20,9 @@
     "sqlite3": "^5.1.7"
   },
   "devDependencies": {
+    "chai": "^5.1.2",
+    "chai-http": "^5.1.1",
+    "mocha": "^11.1.0",
     "nodemon": "^3.1.9"
   }
 }

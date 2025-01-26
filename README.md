@@ -47,6 +47,7 @@ This is a **browser-based RPG game** where players gain experience, fight monste
     node app.js
     ```
 4. Open the `index.html` file in your browser to start the game.
+Or simply click [here](http://localhost:5000/) to access the running server on your machine.
 
 ---
 
